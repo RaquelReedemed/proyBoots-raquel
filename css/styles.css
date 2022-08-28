@@ -505,3 +505,11 @@ input:hover {
     justify-content: space-around;
   }
 }
+
+@media (min-width:1293px) {
+
+    .contenedorPortadas img {
+        width: 35rem;
+      }    
+
+}
